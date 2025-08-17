@@ -9,6 +9,7 @@ body {
 }
 
 body {
+  background-color: #e1a737;
   background-image: url("./images/pimber.png");
   background-repeat: no-repeat;   /* don’t tile the image */
   background-position: center center; /* center horizontally and vertically */
